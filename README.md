@@ -30,6 +30,7 @@ Step 6:
 Do plots like boxplots,countplot,distribution plot,histogram plot.
 
 PROGRAM:
+```
 #Program developed by :VAISHALI BALAMURUGAN
 #Register number : 212222230164
 
@@ -59,7 +60,7 @@ sns.countplot(x='Postal Code',data=data)
 sns.distplot(data["Postal Code"])
 
 sns.histplot(x='Postal Code',data=data)
-
+```
 OUTPUT:
 ![image](https://user-images.githubusercontent.com/119390134/230626704-1573b1e3-8f8d-47e5-ab45-4208f4211e7b.png)
 ![image](https://user-images.githubusercontent.com/119390134/230627027-02d429f9-3c00-49f9-9eb8-dca9c481f77b.png)
